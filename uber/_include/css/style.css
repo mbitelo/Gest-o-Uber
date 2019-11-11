@@ -1,0 +1,15 @@
+.sobre{
+    cursor: pointer;
+}
+.botaodireito {
+    text-align: right;
+    margin-top: -50px;
+    margin-bottom: 10px;
+}
+.table-hover>tbody>tr:hover{
+    background-color: #cdcdcd
+}
+
+.espaco{
+    width: 10%;
+}
